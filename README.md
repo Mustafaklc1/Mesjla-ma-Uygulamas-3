@@ -23,3 +23,9 @@ Bu proje, mesajlaşma uygulaması serisinin en güncel ve optimize edilmiş 3. v
 1. Projeyi klonlayın:
    ```bash
    git clone [https://github.com/Mustafaklc1/Mesjla-ma-Uygulamas-3.git](https://github.com/Mustafaklc1/Mesjla-ma-Uygulamas-3.git)
+Proje dizinine gidin:
+cd Mesjla-ma-Uygulamas-3
+Gerekli paketleri indirin:
+flutter pub get
+Uygulamayı başlatın:
+flutter run
